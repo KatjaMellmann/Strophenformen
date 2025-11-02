@@ -1,3 +1,1 @@
-DOI: 10.17605/OSF.IO/MSFJR
-
-CC-BY
+https://doi.org/10.17605/OSF.IO/MSFJR
